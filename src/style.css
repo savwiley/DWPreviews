@@ -1,12 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
 
 :root {
-  --background: #393646;
-  --header: #4F4557;
-  --accent: #6D5D6E;
-  --text: #F4EEE0;
+  --background: #352F44;
+  --header: #2A2438;
+  --accent: #5C5470;
+  --text: #DBD8E3;
 
-  --headerFont: 'Alfa Slab One', serif;
+  --headerFont: 'Titan One', serif;
   --font: Helvetica, Arial, sans-serif;
 }
 
