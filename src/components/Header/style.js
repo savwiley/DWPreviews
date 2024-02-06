@@ -6,6 +6,6 @@ export const Head = styled.div `
   cursor: default;
   letter-spacing: 4px;
   width: 50%;
+  height: 0;
   padding: 20px;
-  word-break: break-all;
 `;
