@@ -1,4 +1,5 @@
 import React from "react";
+import Layouts from "../Catalogue/Layouts.json";
 
 const Preview = () => {
   return (
